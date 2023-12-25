@@ -1,0 +1,4 @@
+[Project]
+Name=%{APPNAMELC}
+Manager=KDevCMakeManager
+VersionControl=%{VERSIONCONTROLPLUGIN}

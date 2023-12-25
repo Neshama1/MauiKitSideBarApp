@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=%{APPNAME}
+Comment=Convergent app ...
+TryExec=%{APPNAMELC}
+Exec=%{APPNAMELC} %U
+Terminal=false
+Type=Application
+GenericName=
+StartupNotify=true
+Icon=%{APPNAMELC}
+Categories=Qt;KDE;
+MimeType=
+SingleMainWindow=true

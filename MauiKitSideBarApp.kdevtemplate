@@ -1,0 +1,6 @@
+[General]
+Name=MauiKit App with a sidebar
+Comment=A MauiKit application with a sidebar.
+Icon=MauiKitSideBarApp.png
+ShowFilesAfterGeneration=src/controls/main.qml
+Category=Qt/Graphical
